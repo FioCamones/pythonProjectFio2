@@ -9,3 +9,6 @@ print('Hello')
 
 
 Print("Hello From Mohssine")
+
+
+print('Hola amigos')
